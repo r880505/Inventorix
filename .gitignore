@@ -6270,3 +6270,12 @@ db.sqlite3
 .venv/lib/python3.10/site-packages/typing_extensions-4.12.2.dist-info/METADATA
 .venv/lib/python3.10/site-packages/typing_extensions-4.12.2.dist-info/RECORD
 .venv/lib/python3.10/site-packages/typing_extensions-4.12.2.dist-info/WHEEL
+users/__pycache__/__init__.cpython-310.pyc
+users/__pycache__/admin.cpython-310.pyc
+users/__pycache__/apps.cpython-310.pyc
+users/__pycache__/models.cpython-310.pyc
+users/__pycache__/serializers.cpython-310.pyc
+users/__pycache__/urls.cpython-310.pyc
+users/__pycache__/views.cpython-310.pyc
+Inventorix/__pycache__/settings.cpython-310.pyc
+Inventorix/__pycache__/urls.cpython-310.pyc
